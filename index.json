@@ -1,0 +1,28 @@
+{
+    "articles": [
+        {
+            "id": "placeholder-1",
+            "title": "Placeholder 1",
+            "categories": [
+                "Placeholder"
+            ],
+            "tags": [
+                "Place",
+                "Holder"
+            ],
+            "create": 1653075597283
+        },
+        {
+            "id": "placeholder-2",
+            "title": "Placeholder 2",
+            "categories": [
+                "Placeholder"
+            ],
+            "tags": [
+                "Place",
+                "Holder"
+            ],
+            "create": 1653074000000
+        }
+    ]
+}
