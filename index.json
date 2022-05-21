@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "id": "es6-promise",
+      "title": "一篇文章让你彻底弄懂 ES6 Promise",
+      "create": 1626297250000,
+      "categories": [
+        "技术分享"
+      ],
+      "tags": [
+        "JavaScript",
+        "ES6"
+      ],
+      "description": "ES6 中新增了一个非常重要的特性，即本篇文章介绍的主角，异步编程的终极解决方案 —— Promise。"
+    },
+    {
       "id": "placeholder-1",
       "title": "Placeholder 1",
       "create": 1653166623791,
