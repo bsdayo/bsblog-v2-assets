@@ -14,30 +14,16 @@
       "description": "ES6 中新增了一个非常重要的特性，即本篇文章介绍的主角，异步编程的终极解决方案 —— Promise。"
     },
     {
-      "id": "placeholder-1",
-      "title": "Placeholder 1",
-      "create": 1653166623791,
+      "id": "manually-compile-aseprite",
+      "title": "手动编译像素画软件 Aseprite",
+      "create": 1644404412000,
       "categories": [
-        "Placeholder"
+        "教程"
       ],
       "tags": [
-        "Place",
-        "Holder"
+        "像素画"
       ],
-      "description": "Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder\nPlaceholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder\n"
-    },
-    {
-      "id": "placeholder-2",
-      "title": "Placeholder 2",
-      "create": 1553166623791,
-      "categories": [
-        "Placeholder"
-      ],
-      "tags": [
-        "Place",
-        "Holder"
-      ],
-      "description": "Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder"
+      "description": "no desc"
     }
   ]
 }
