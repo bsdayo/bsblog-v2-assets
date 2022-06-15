@@ -1,6 +1,6 @@
 ---
 id: es6-promise
-title: 一篇文章让你彻底弄懂 ES6 Promise
+title: 简要介绍 ES6 Promise
 create: 1626297250000
 categories:
   - 技术分享

@@ -2,7 +2,7 @@
   "articles": [
     {
       "id": "es6-promise",
-      "title": "一篇文章让你彻底弄懂 ES6 Promise",
+      "title": "简要介绍 ES6 Promise",
       "create": 1626297250000,
       "categories": [
         "技术分享"
@@ -24,6 +24,20 @@
         "像素画"
       ],
       "description": "no desc"
+    },
+    {
+      "id": "ubuntu-desktop-in-mac-style",
+      "title": "Mac风格 Ubuntu Desktop 美化教程",
+      "create": 1655327615690,
+      "categories": [
+        "教程"
+      ],
+      "tags": [
+        "Ubuntu",
+        "美化",
+        "Linux"
+      ],
+      "description": "将 Ubuntu Desktop 美化为 Mac 风格，基于 Ubuntu Desktop 20.04"
     }
   ]
 }
